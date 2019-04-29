@@ -19,7 +19,7 @@ If you are using data-sets, you need to be aware if any edge cases exist in your
 
 ## Dictionaries and lists
 
-If you are using dictionaries and lists in your project, please ensure that the order of insertion or printing will not matter when during automated testing on Mimir. In most cases, please remember to `sort` the dictionary or list at the end of a function. This ensures that no-matter what the order of insertion is, as long as the student's data structure contains the expected data they won't fail the test case. This is because the final sort before `return` will ensure random order before the sort does not matter.  
+If you are using dictionaries and lists in your project, please ensure that the order of insertion or printing will not matter during automated testing on Mimir. In most cases, please remember to `sort` the dictionary or list at the end of a function. This ensures that no-matter what the order of insertion is, as long as the student's data structure contains the expected data they won't fail the test case. This is because the final sort before `return` will ensure random order before the sort does not matter.  
 
 ## Difficulty progression
 
