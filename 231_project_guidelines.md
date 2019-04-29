@@ -32,7 +32,7 @@ Projects are meant to demonstrate specific python concepts: dictionaries, lists,
 
 ## Double check your DOCX
 
-Double check (and triple check) your project DOCX submission for errors. During the course of writing your project, you will likely update or modify your project, and your PDF, several times. This introduces inconsistencies. Ensure that your check that your DOCX corresponds to the submitted model solution. Reviewers for the projects need to ensure that the PDF was updated correctly if instructors introduced modifications into the project after it was originally submitted by a TA. 
+Double check (and triple check) your project DOCX submission for errors. During the course of writing your project, you will likely update or modify your project, and your PDF, several times. This introduces inconsistencies. Ensure that you check that your DOCX corresponds to the submitted model solution. Reviewers for the projects need to ensure that the PDF was updated correctly if instructors introduced modifications into the project after it was originally submitted by a TA. 
 
 ## Function descriptions
 
