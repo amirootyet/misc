@@ -19,11 +19,11 @@ If you are using data-sets, you need to be aware if any edge cases exist in your
 
 ## Dictionaries and lists
 
-If you are using dictionaries and lists in your project, please ensure that the order of insertion or printing will not matter during automated testing on Mimir. In most cases, please remember to `sort` the dictionary or list at the end of a function. This ensures that no-matter what the order of insertion is, as long as the student's data structure contains the expected data they won't fail the test case. This is because the final sort before `return` will ensure random order before the sort does not matter.  
+If you are using dictionaries and lists in your project, please ensure that the order of insertion or printing will not matter during automated testing on Mimir. In most cases, please remember to `sort` the dictionary or list at the end of a function. This ensures that no-matter what the order of insertion is, as long as the student's data structure contains the expected data they won't fail the test case. This is because the final sort before `return` will ensure random order, that existed before the sorting, does not matter.  
 
 ## Difficulty progression
 
-Please think about the natural progression of difficulty in projects. Project should progress naturally in complexity for 231 students. This means project 2, introducing conditional and loop statements, will be slightly more difficult than project 1 and so on. Avoid introducing projects that increase several levels in difficulty when compared to the previous project. This can be hard to keep track of hence it will help if you look up previous project specifics. For example, if your doing project 2 and the previous project, project 1, hasn't introduced functions yet and your project is introducing functions, avoid making it too complicated with too many functions. Ask instructors if not sure.
+Please think about the natural progression of difficulty in projects. Project should progress naturally in complexity for 231 students. This means project 2, introducing conditional and loop statements, will be slightly more difficult than project 1 and so on. Avoid introducing projects that increase several levels in difficulty when compared to the previous project. This can be hard to keep track of hence it will help if you look up previous project specifics. For example, if you're doing project 2 and the previous project, project 1, hasn't introduced functions yet and your project is introducing functions, avoid making it too complicated with too many functions. Ask instructors if not sure.
 
 
 ## Keep sight of the goal
